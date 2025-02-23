@@ -1,0 +1,26 @@
+https://www.python.org
+
+comentario en una linea
+
+"""
+comentario grande en varias lineas
+"""
+'''
+este es otro comentario en linea derecha
+'''
+
+my_variable = "Mi variable mia""
+My_ variable = "Mi nuevo super varable"
+
+MY_CONSTANT = "Mi contanste"
+
+my_int = 1
+my_float = 1.7
+my_bool = True
+My_bool = false
+My_string = "Mi caneda de texo suprema"
+My_string =. " Mi otra cada de super texto"
+
+print("¡Hola, Python")
+
+
